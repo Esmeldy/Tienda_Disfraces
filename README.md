@@ -19,7 +19,8 @@ __Tienda de disfraces__ desarrollada en:
 
 ## Video Demo
 
-<video src="./public/video/Disfrazado.mp4" controls="controls" muted style="max-width: 450px;">
-</video>
+https://github.com/Esmeldy/disfrazado/assets/67498436/f9a584e5-ce0a-480e-a449-67ad86a1a87c
+
+
 
 
