@@ -1,13 +1,14 @@
 <h1 align="center">Tienda de venta de disfraces</h1>
 
 
-__Tienda de disfraces__ desarrollada en:
+__Tienda de disfraces__ desarrollada con:
 <ul>
     <li>PHP con Laravel</li>
     <li>MySQL</li>
-    <li>BootStrap.</li>
+    <li>BootStrap</li>
 </ul>
 
+<a href="http://dwestareas.atwebpages.com/ProyectoFinal/public/tienda"><h1  align="center">Probar aquí</h1></a>
 
 ## Video Demo
 
