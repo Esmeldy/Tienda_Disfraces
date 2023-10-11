@@ -8,7 +8,8 @@ __Tienda de disfraces__ desarrollada con:
     <li>BootStrap</li>
 </ul>
 
-<a href="http://dwestareas.atwebpages.com/ProyectoFinal/public/tienda"><h1  align="center">Probar aquí</h1></a>
+## Probar la Web
+<a href="http://dwestareas.atwebpages.com/ProyectoFinal/public/tienda">Click aquí</a>
 
 ## Video Demo
 
